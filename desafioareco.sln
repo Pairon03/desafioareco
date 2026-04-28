@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product-api", "product-api", "{82F7E1ED-F6DE-8D37-0B0E-1D01CD133F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi", "product-api\ProductApi\ProductApi.csproj", "{EC4FF818-C3DE-C957-EC20-22C4F3EC2057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4FF818-C3DE-C957-EC20-22C4F3EC2057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4FF818-C3DE-C957-EC20-22C4F3EC2057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4FF818-C3DE-C957-EC20-22C4F3EC2057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4FF818-C3DE-C957-EC20-22C4F3EC2057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC4FF818-C3DE-C957-EC20-22C4F3EC2057} = {82F7E1ED-F6DE-8D37-0B0E-1D01CD133F39}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259A7988-03D9-4072-A6E7-E1D824E83F40}
+	EndGlobalSection
+EndGlobal
